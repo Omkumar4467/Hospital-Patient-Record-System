@@ -1,0 +1,2 @@
+PT101 | om kumar | 20 | fever
+PT102 | aniket | 20 | cold fever
